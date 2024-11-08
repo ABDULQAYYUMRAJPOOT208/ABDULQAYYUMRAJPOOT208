@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://portfolio-px.vercel.app/](https://portfolio-px.vercel.app/)
 
-- ⚡ Fun fact **I love**
+- ⚡ Fun fact **I love collaborating new people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
