@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, C++, C, javascript, typescript, C#, Bash, Assembly-32bit,8bit,64bit**
 
-- 📫 How to reach me **pxdevelopers208@gmail.com**
+- 📫 How to reach me **abdulqayyum04144@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-px.vercel.app/](https://portfolio-px.vercel.app/)
 
